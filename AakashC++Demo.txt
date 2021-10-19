@@ -1,0 +1,82 @@
+class Calculator
+{
+int a, b;
+add()
+{
+a+b;
+}
+
+sub()
+{
+a-b;
+}
+
+mul()
+{
+a*b;
+}
+
+div()
+{
+a/b;
+}
+};
+
+class ScientificCalculator
+{
+sin()
+{
+int a;
+}
+};
+
+
+C++
+
+OOPS: Object Oriented Programming Language
+Features:
+
+1. Class and Object
+
+class is a logical entity
+object is a real time entity / physical entity
+
+
+
+- Bjarne Stroustrup
+- It is a Superclass of c language
+
+C++ Programming Language
+
+- Programming: Set of instructions/Statements
+- Language : communication
+
+Human 			   	Computer
+English	---> Compiler--->	Binary 
+
+Compiler / Translator
+
+Binary - 2 - 0 or 1
+Language: 
+
+Computer --> Electronic Device --> Current flow (1) --> No Current flow (0)
+
+C++:
+Runtime Checking Mechanism
+Exception Handling
+10 / 0 = infinite
+
+Syllabus:
+
+1. OOPS
+
+- Class and Object
+- Encapsulation and Abstraction
+- Inheritance
+- Polymorphism
+
+2. Exception Handling
+3. Templates
+4. Standard Template Libraray : DS
+
+Code::Blocks
